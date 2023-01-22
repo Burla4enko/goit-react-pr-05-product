@@ -19,7 +19,6 @@ code {
 
 ul, ol {
     list-style: none;
-    margin: 0;
     padding: 0;
 }
 
@@ -27,6 +26,10 @@ img {
     display: block;
     max-width: 100%;
     height: auto;    
+}
+
+main {
+  padding: 0 20px;
 }
 
 `;
